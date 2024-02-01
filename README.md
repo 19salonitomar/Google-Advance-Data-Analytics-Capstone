@@ -1,5 +1,5 @@
 ## Google-Advance-Data-Analytics-Capstone
-![Certificate]()
+![Certificate](https://github.com/19salonitomar/Google-Advance-Data-Analytics-Capstone/blob/main/Advance%20Data%20Analytics%20Certificate_page-0001.jpg))
 
 Throughout the capstone project, you will use the skills and experience that you acquired in each course and the accompanying end-of-course projects. The capstone project scenario will offer opportunities to:
 
